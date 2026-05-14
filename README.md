@@ -1,4 +1,4 @@
-This is a fork. I changed nothing really just removed grap (which I think did nothing for me I think just makign a window rule and putting it in a float fixed the problem for me but whatever) and just added ctrl+c and ctrl+v and that's it really.
+This is a fork of dmenu. I changed nothing really just removed grap (which I think did nothing for me I think just makign a window rule and putting it in a float fixed the problem for me but whatever) and just added ctrl+c and ctrl+v and that's it really.
 
 For clipboard I just use copyq while the thing is open with keyd you can send command as root to open clipboard but tbh.... I don't think it's necessary again because of window rules. 
 

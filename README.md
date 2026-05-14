@@ -1,3 +1,14 @@
+This is a fork. I changed nothing really just removed grap (which I think did nothing for me I think just makign a window rule and putting it in a float fixed the problem for me but whatever) and just added ctrl+c and ctrl+v and that's it really.
+
+For clipboard I just use copyq while the thing is open with keyd you can send command as root to open clipboard but tbh.... I don't think it's necessary again because of window rules. 
+
+Simply changing the window rules to make it float instead of tile makes it work and stick until you hit escape. So you tbh no need for copyq as well. 
+
+So yeah regadless... with that make and sudo make install to put the dmenu and dmenu_run in the /usr/bin didn't even matter.
+
+
+regardles here is the explanation to what has been done. I guess. If it works it works:
+
 # dmenu-i3-keyd (Arch Linux)
 
 Custom `dmenu` build optimized for i3-wm and keyd. Features non-blocking input, toggle-undo, and clipboard integration.
